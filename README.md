@@ -11,10 +11,11 @@
 - 📫 How to reach me **//23521172@gm.uit.edu.vn//**
 
 
-<img align="bottom" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <a href="https://fb.com/t.phong1501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="t.phong1501" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/phong98753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phong98753" height="30" width="40" /></a>
 </p>
