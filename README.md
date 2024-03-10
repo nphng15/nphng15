@@ -11,7 +11,7 @@
 - 📫 How to reach me **//23521172@gm.uit.edu.vn//**
 
 
-<img align="right" align="bottom" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
