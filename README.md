@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a Freshman at **//University of Information Technology//**
 
-- 🌱 I’m currently learning **//C++,HTML,CSS,Javascripts, Python?//**
+- 🌱 I’m currently learning **//C++, HTML, CSS, Javascripts, Python?//**
 
 - 🤝 I’m looking for help with **DSA :(**
 
