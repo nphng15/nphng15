@@ -26,10 +26,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="197" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nphng15&size_weight=0.1&count_weight=0.9&hide_border=true&layout=compact&theme=github_dark&langs_count=10">
 </a>
+    <img alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="left: 20px;">
 <div style="display: flex; align-items: center;">
     <a position: relative bottom: 20px href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 20px;">
       <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=nphng15&layout=compact&theme=github_dark" />
     </a>
-    <img alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="left: 20px;">
+
 </div>
 
